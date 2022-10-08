@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.map{
+    margin-left: 320px;
+}
+h1{
+    text-align: center;
+}
+.links{
+    text-align: center;
+}

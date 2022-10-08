@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 70;
+    color: black;
+    text-align: center;
+}
+.crops{
+    font-size: large;
+}
+.links{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
